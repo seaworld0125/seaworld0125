@@ -1,16 +1,14 @@
-### Hi there 👋
+## HELLO! I'm Taekyung-Kim 👋
+#### 🌱 I’m currently learning Java Spring  &  Node.js
+#### 📬 email : kyoung@kakao.com
+#### 📗 blog : https://velog.io/@seaworld0125
 
-<!--
-**seaworld0125/seaworld0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<hr>
 
-Here are some ideas to get you started:
+![seaworld0125's GitHub stats](https://github-readme-stats.vercel.app/api?username=seaworld0125&show_icons=true&theme=synthwave) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seaworld0125&layout=compact&theme=synthwave&langs_count=4)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seaworld0125)](https://solved.ac/seaworld0125)
+
