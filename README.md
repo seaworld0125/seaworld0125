@@ -3,7 +3,6 @@
 #### 📬 email : kyoung@kakao.com
 #### 📗 blog : https://velog.io/@seaworld0125
 
-<br/>
 <hr>
 
 ![seaworld0125's GitHub stats](https://github-readme-stats.vercel.app/api?username=seaworld0125&show_icons=true&theme=synthwave) 
