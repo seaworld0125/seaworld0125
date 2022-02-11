@@ -2,6 +2,7 @@
 #### 🌱 I’m currently learning Java Spring  &  Node.js
 #### 📬 email : kyoung@kakao.com
 #### 📗 blog : https://velog.io/@seaworld0125
+#### 🤓 Mini blog : https://braindisk.tistory.com/
 
 <hr>
 
