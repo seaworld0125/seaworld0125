@@ -1,5 +1,5 @@
 ## HELLO! I'm Taekyung-Kim 👋
-#### 🌱 I’m currently learning Java Spring
+#### 🌱 I’m currently learning Java and Spring Boot
 #### 📬 email : kyoung@kakao.com
 #### 🤓 Main blog : https://braindisk.tistory.com
 #### 📗 Old blog : https://velog.io/@seaworld0125
