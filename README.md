@@ -1,10 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&text=We!come&animation=fadeIn)
 <div align="center">
-I'm Taekyung-Kim 👋<br>
-🌱 I’m currently learning Java and Spring Boot<br>
-📬 email : kyoung@kakao.com<br>
-🤓 Main blog : https://braindisk.tistory.com<br>
-📗 Old blog : https://velog.io/@seaworld0125<br>
+
+<b>I'm Taekyung-Kim<b> 👋<br><br>
+
+<table>
+    <tr>
+        <td>🌱 I’m currently learning Java and Spring Boot</td>           
+    </tr>
+    <tr>
+        <td>📬 email : kyoung@kakao.com<br></td>           
+    </tr>
+    <tr>
+        <td>🤓 Main blog : https://braindisk.tistory.com</td>           
+    </tr>
+    <tr>
+        <td>📗 Old blog : https://velog.io/@seaworld0125</td>           
+    </tr>
+</table>
 
 <hr>
 
