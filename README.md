@@ -13,9 +13,6 @@
     <tr>
         <td>🤓 Main blog : https://braindisk.tistory.com</td>           
     </tr>
-    <tr>
-        <td>📗 Old blog : https://velog.io/@seaworld0125</td>           
-    </tr>
 </table>
 
 <br>
