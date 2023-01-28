@@ -5,7 +5,7 @@
 
 <table>
     <tr>
-        <td>🌱 I’m currently learning Java and Spring Boot</td>           
+        <td>🌱 I Love Java and Spring Boot</td>           
     </tr>
     <tr>
         <td>📬 email : kyoung@kakao.com<br></td>           
