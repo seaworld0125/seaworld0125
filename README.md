@@ -10,9 +10,6 @@
     <tr>
         <td>📬 email : kyoung@kakao.com<br></td>           
     </tr>
-    <tr>
-        <td>🤓 Main blog : https://braindisk.tistory.com</td>           
-    </tr>
 </table>
 
 <br>
