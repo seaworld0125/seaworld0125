@@ -3,7 +3,7 @@
 
 <b>I'm Taekyung-Kim<b> 👋<br><br>
 
-<table>
+<table style="text-align: center;">
     <tr>
         <td>🌱 I Love Java and Spring Boot</td>           
     </tr>
@@ -11,10 +11,10 @@
         <td>📬 email : kyoung@kakao.com<br></td>           
     </tr>
     <tr>
-        <td>🌠 main Blog! : [https://seaworld0125.github.io/](https://seaworld0125.github.io/)<br></td>           
+        <td>🌠 main Blog : https://seaworld0125.github.io<br></td>           
     </tr>
     <tr>
-        <td>🌠 second Blog : [https://seaworld0125.github.io/](https://braindisk.tistory.com/)<br></td>           
+        <td>🌌 second Blog : https://braindisk.tistory.com<br></td>           
     </tr>
 </table>
 
