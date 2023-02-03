@@ -10,6 +10,12 @@
     <tr>
         <td>📬 email : kyoung@kakao.com<br></td>           
     </tr>
+    <tr>
+        <td>🌠 main Blog! : [https://seaworld0125.github.io/](https://seaworld0125.github.io/)<br></td>           
+    </tr>
+    <tr>
+        <td>🌠 second Blog : [https://seaworld0125.github.io/](https://braindisk.tistory.com/)<br></td>           
+    </tr>
 </table>
 
 <br>
